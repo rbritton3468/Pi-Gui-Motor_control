@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=zRXauWUumSI&t=129s
 
 
 crontab -e
+
+work in progress 
